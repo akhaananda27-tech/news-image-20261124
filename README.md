@@ -11,5 +11,5 @@ A one-image summary of 24 November 2026 world news, built for the [make.fun news
 ## Run it
 
 ```sh
-python3 gen_image.py entry.png
+python3 main.py
 ```
