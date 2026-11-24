@@ -233,18 +233,18 @@ def main():
     briefs = [
         "France: students prepare nationwide protests over education reforms.",
         "EU and Canada plan closer collaboration on artificial intelligence.",
-        "Audi reports a sharp profit fall as its China market weakens.",
+        "Trump warns Iran as a second US carrier sails toward the Strait of Hormuz.",
         "SoftBank plans a $2bn investment in Intel, reports say.",
         "Bangladesh begins a drive to vaccinate 50m children against typhoid.",
         "Somalia and Uganda step up operations against al-Shabaab.",
-        "Libya demands answers from Kyiv after strikes on Russian ships.",
+        "Ukrainian sea drones sink the Russian corvette Merkury in Benghazi port.",
         "European states prepare evacuations after the coup in Niger.",
         "Pentagon rebukes Canada over defence spending and its F-35 review.",
         "US blacklists Megaspeed, the firm at the centre of the Nvidia case.",
         "Zelensky urges Ukraine, Russia, US and Europe to hold talks soon.",
         "China opens its Tiangong station to a first foreign astronaut.",
         "Fighting pauses on the Thai-Cambodia border after a truce.",
-        "Arm extends chief Rene Haas's tenure to 2033 amid Nvidia talk.",
+        "Nvidia reinstates Jensen Huang as chief after Trump intervenes.",
     ]
     y = 670
     for b in briefs:
